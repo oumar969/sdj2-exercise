@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" filepath="$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" filepath="$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.4/Exercise3.4.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.4/Exercise3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Loan/Loan.iml" filepath="$PROJECT_DIR$/Observer Pattern/Loan/Loan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/RealTime/RealTime.iml" filepath="$PROJECT_DIR$/Thread/RealTime/RealTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDJ2-exercise.iml" filepath="$PROJECT_DIR$/SDJ2-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Student/Student.iml" filepath="$PROJECT_DIR$/Observer Pattern/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+    </modules>
+  </component>
+</project>
