@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" filepath="$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" filepath="$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/Example2/Example2.iml" filepath="$PROJECT_DIR$/RMI/Example2/Example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/Example3/Example3.iml" filepath="$PROJECT_DIR$/RMI/Example3/Example3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.4/Exercise3.4.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.4/Exercise3.4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Loan/Loan.iml" filepath="$PROJECT_DIR$/Observer Pattern/Loan/Loan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RealTime/RealTime.iml" filepath="$PROJECT_DIR$/Thread/RealTime/RealTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2-exercise.iml" filepath="$PROJECT_DIR$/SDJ2-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
