@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" filepath="$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" filepath="$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/Example/Example.iml" filepath="$PROJECT_DIR$/RMI/Example/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/Example2/Example2.iml" filepath="$PROJECT_DIR$/RMI/Example2/Example2.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/Example3/Example3.iml" filepath="$PROJECT_DIR$/RMI/Example3/Example3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" />
