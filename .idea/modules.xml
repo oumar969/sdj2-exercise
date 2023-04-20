@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" filepath="$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/DIP.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/DIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/Daarlig Kode/Daarlig Kode.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/Daarlig Kode/Daarlig Kode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" filepath="$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/Example/Example.iml" filepath="$PROJECT_DIR$/RMI/Example/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyDesignPattern/Example1/Example1.iml" filepath="$PROJECT_DIR$/ProxyDesignPattern/Example1/Example1.iml" />
@@ -12,16 +14,21 @@
       <module fileurl="file://$PROJECT_DIR$/ProxyDesignPattern/Example_3/Example_3.iml" filepath="$PROJECT_DIR$/ProxyDesignPattern/Example_3/Example_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.3/Exercise3.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Exercise3.4/Exercise3.4.iml" filepath="$PROJECT_DIR$/Observer Pattern/Exercise3.4/Exercise3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/God Kode/God Kode.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/God Kode/God Kode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/God Kode/GodKode.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/God Kode/GodKode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Loan/Loan.iml" filepath="$PROJECT_DIR$/Observer Pattern/Loan/Loan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" filepath="$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RealTime/RealTime.iml" filepath="$PROJECT_DIR$/Thread/RealTime/RealTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2-exercise.iml" filepath="$PROJECT_DIR$/SDJ2-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SWE praesentation eksampler.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SWE praesentation eksampler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" filepath="$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Student/Student.iml" filepath="$PROJECT_DIR$/Observer Pattern/Student/Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/daarligKode/daarligKode.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/daarligKode/daarligKode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example1/example1.iml" filepath="$PROJECT_DIR$/Socket/example1/example1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example2/example2.iml" filepath="$PROJECT_DIR$/Socket/example2/example2.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletons/singletons.iml" filepath="$PROJECT_DIR$/singletons/singletons.iml" />
