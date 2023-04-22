@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" filepath="$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReaderWritersProblem/ReaderWritersProblem.iml" filepath="$PROJECT_DIR$/ReaderWritersProblem/ReaderWritersProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RealTime/RealTime.iml" filepath="$PROJECT_DIR$/Thread/RealTime/RealTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2-exercise.iml" filepath="$PROJECT_DIR$/SDJ2-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/SOLID.iml" />
@@ -28,6 +29,9 @@
       <module fileurl="file://$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" filepath="$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Student/Student.iml" filepath="$PROJECT_DIR$/Observer Pattern/Student/Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReaderWritersProblem/Using ReentrantReadWriteLock/Using ReentrantReadWriteLock.iml" filepath="$PROJECT_DIR$/ReaderWritersProblem/Using ReentrantReadWriteLock/Using ReentrantReadWriteLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReaderWritersProblem/Using Semaphore/Using Semaphore.iml" filepath="$PROJECT_DIR$/ReaderWritersProblem/Using Semaphore/Using Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReaderWritersProblem/Using synchronized blocks/Using synchronized blocks.iml" filepath="$PROJECT_DIR$/ReaderWritersProblem/Using synchronized blocks/Using synchronized blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/daarligKode/daarligKode.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/daarligKode/daarligKode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example1/example1.iml" filepath="$PROJECT_DIR$/Socket/example1/example1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example2/example2.iml" filepath="$PROJECT_DIR$/Socket/example2/example2.iml" />
