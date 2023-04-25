@@ -2,9 +2,7 @@ import org.junit.jupiter.api.Test;
 import queue.QueueADT;
 import queueimpls.SimpleBoundedArrayQueueC;
 
-import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
-import static org.testng.Assert.assertThrows;
-import static org.testng.AssertJUnit.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class QueueTest {
 
