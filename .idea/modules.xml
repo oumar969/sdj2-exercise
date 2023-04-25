@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" filepath="$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Student/Student.iml" filepath="$PROJECT_DIR$/Observer Pattern/Student/Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTest1/UnitTest1.iml" filepath="$PROJECT_DIR$/UnitTest1/UnitTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTest1/Ventesal/Ventesal.iml" filepath="$PROJECT_DIR$/UnitTest1/Ventesal/Ventesal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example1/example1.iml" filepath="$PROJECT_DIR$/Socket/example1/example1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example2/example2.iml" filepath="$PROJECT_DIR$/Socket/example2/example2.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletons/singletons.iml" filepath="$PROJECT_DIR$/singletons/singletons.iml" />

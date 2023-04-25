@@ -1,0 +1,8 @@
+//regler:
+    //Højst 10 personer throw IllegalStateException
+    //Ved mere end  5 personer over 65 skal næste patient til lægen være over 65 år
+    //Ingen personer over 100 år IllegalArgumentException
+    //Hvis man henter patient og venteværelset er tomt fås en exception
+
+    public void tilfoejPatient(Person p)
+    public Person hentPatient()
