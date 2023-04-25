@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReaderWeiter/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/ReaderWeiter/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" filepath="$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" filepath="$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/Example/Example.iml" filepath="$PROJECT_DIR$/RMI/Example/Example.iml" />
@@ -13,12 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/UnitTest1/LoginApplicationTest/LoginApplicationTest.iml" filepath="$PROJECT_DIR$/UnitTest1/LoginApplicationTest/LoginApplicationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReaderWeiter/ReaderWeiter.iml" filepath="$PROJECT_DIR$/ReaderWeiter/ReaderWeiter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/RealTime/RealTime.iml" filepath="$PROJECT_DIR$/Thread/RealTime/RealTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2-exercise.iml" filepath="$PROJECT_DIR$/SDJ2-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" filepath="$PROJECT_DIR$/Socket/SocketsUppercaseExample/SocketsUppercaseExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Student/Student.iml" filepath="$PROJECT_DIR$/Observer Pattern/Student/Student.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReaderWeiter/Toilt/Toilt.iml" filepath="$PROJECT_DIR$/ReaderWeiter/Toilt/Toilt.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnitTest1/UnitTest1.iml" filepath="$PROJECT_DIR$/UnitTest1/UnitTest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnitTest1/Ventesal/Ventesal.iml" filepath="$PROJECT_DIR$/UnitTest1/Ventesal/Ventesal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Socket/example1/example1.iml" filepath="$PROJECT_DIR$/Socket/example1/example1.iml" />
