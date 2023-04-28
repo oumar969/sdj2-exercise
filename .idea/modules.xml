@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JUnit/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/JUnit/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" filepath="$PROJECT_DIR$/Observer Pattern/Channel/Channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerAndConsumer/Counter/Counter.iml" filepath="$PROJECT_DIR$/ProducerAndConsumer/Counter/Counter.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/DIP.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/DIP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/Daarlig Kode/Daarlig Kode.iml" filepath="$PROJECT_DIR$/SWE praesentation eksampler/SOLID/DIP/Daarlig Kode/Daarlig Kode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" filepath="$PROJECT_DIR$/Thread/ExamTimer-Quiz Thread-/ExamTimer.iml" />
